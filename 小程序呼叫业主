@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T02:31:42.033Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="2R95-5Y-H7NV9LZJ97c_" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T06:02:10.084Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="BEpMRXgzcJ4nvvPctGZq" version="17.4.6" type="github">
   <diagram id="rxpI5bNwpThbkl8vkYMV" name="第 1 页">
     <mxGraphModel dx="1342" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-54" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-1">
           <mxGeometry x="45" y="1260" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-1">
+          <mxGeometry x="45" y="1440" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-1">
+          <mxGeometry x="45" y="1840" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-2" value="捷生活服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="80" width="100" height="1960" as="geometry" />
@@ -52,6 +58,12 @@
         <mxCell id="UXDTpI5uf9zNXeYQ668D-51" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-2">
           <mxGeometry x="45" y="1170" width="10" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-2">
+          <mxGeometry x="45" y="1440" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-73" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-2">
+          <mxGeometry x="45" y="1760" width="10" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-3" value="人行云服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="80" width="100" height="1960" as="geometry" />
         </mxCell>
@@ -79,6 +91,12 @@
             <mxPoint x="55" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-62" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-3">
+          <mxGeometry x="45" y="1460" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-3">
+          <mxGeometry x="45" y="1840" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-4" value="信令" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1180" y="80" width="100" height="1960" as="geometry" />
         </mxCell>
@@ -87,6 +105,24 @@
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-4">
           <mxGeometry x="45" y="880" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-4">
+          <mxGeometry x="45" y="1460" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-74" value="socket 推送挂断" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="UXDTpI5uf9zNXeYQ668D-4">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="354.5" y="1780" as="sourcePoint" />
+            <mxPoint x="-450" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-76" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-4">
+          <mxGeometry x="45" y="1850" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-78" value="bye 挂断音视频" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="UXDTpI5uf9zNXeYQ668D-4">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-179.5" y="1880" as="sourcePoint" />
+            <mxPoint x="45" y="1880.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-6" value="捷生活App / 天猫精灵" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="80" width="100" height="1960" as="geometry" />
@@ -111,6 +147,12 @@
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-6">
           <mxGeometry x="45" y="1230" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-68" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-6">
+          <mxGeometry x="45" y="1560" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-6">
+          <mxGeometry x="45" y="1760" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-8" value="发起呼叫" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="UXDTpI5uf9zNXeYQ668D-2">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -235,6 +277,48 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="732" y="1320" as="sourcePoint" />
             <mxPoint x="1537.5" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-58" value="&lt;span style=&quot;font-size: 14px&quot;&gt;被叫已接听, 主叫挂断&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1540" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-61" value="推送挂断" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" target="UXDTpI5uf9zNXeYQ668D-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="465" y="1530" as="sourcePoint" />
+            <mxPoint x="545" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-64" value="bye 挂断音视频" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="730" y="1549.5" as="sourcePoint" />
+            <mxPoint x="999.5" y="1549.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-66" value="bye 挂断音视频" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1000" y="1560" as="sourcePoint" />
+            <mxPoint x="1224.5" y="1560.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-69" value="socket 推送挂断" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="732" y="1660" as="sourcePoint" />
+            <mxPoint x="1536.5" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-70" value="&lt;span style=&quot;font-size: 14px&quot;&gt;被叫已接听, 被叫挂断&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1850" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-77" value="bye 挂断音视频" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="730" y="1940" as="sourcePoint" />
+            <mxPoint x="999.5" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-79" value="推送挂断" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="724.5" y="1940" as="sourcePoint" />
+            <mxPoint x="460" y="1940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
