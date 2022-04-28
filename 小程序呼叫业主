@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T02:25:56.688Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="VszT0GTxzi6jXts_SMRQ" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T02:31:42.033Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="2R95-5Y-H7NV9LZJ97c_" version="17.4.6" type="github">
   <diagram id="rxpI5bNwpThbkl8vkYMV" name="第 1 页">
     <mxGraphModel dx="1342" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-51" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-2">
-          <mxGeometry x="45" y="1170" width="10" height="340" as="geometry" />
+          <mxGeometry x="45" y="1170" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-3" value="人行云服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="80" width="100" height="1960" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-6">
           <mxGeometry x="45" y="1170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="UXDTpI5uf9zNXeYQ668D-6">
+          <mxGeometry x="45" y="1230" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-8" value="发起呼叫" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="UXDTpI5uf9zNXeYQ668D-2">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -214,7 +217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-50" value="&lt;span style=&quot;font-size: 14px&quot;&gt;被叫未接听, 被叫挂断&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="1260" width="150" height="20" as="geometry" />
+          <mxGeometry x="200" y="1290" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UXDTpI5uf9zNXeYQ668D-53" value="通过socket推送挂断指令" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -222,10 +225,16 @@
             <mxPoint x="732" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UXDTpI5uf9zNXeYQ668D-55" value="只有一个被叫方, &lt;br&gt;被叫方拒绝接听, &lt;br&gt;向主叫推送挂断" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-55" value="只有一个被叫方, &lt;br&gt;被叫方拒绝接听, &lt;br&gt;向主叫推送挂断,&amp;nbsp;&lt;br&gt;若有多个被叫, &lt;br&gt;不推送挂断" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="729.5" y="1360" as="sourcePoint" />
             <mxPoint x="460" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UXDTpI5uf9zNXeYQ668D-57" value="如果该被叫方登录了多端设备, 向其他设备推送挂断指令" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="732" y="1320" as="sourcePoint" />
+            <mxPoint x="1537.5" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
